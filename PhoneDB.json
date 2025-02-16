@@ -1,0 +1,93 @@
+{
+    "phones": [
+      {
+        "id": 1,
+        "name": "IKU A23",
+        "price": 130,
+        "description": "Double SIM - Écran HD 5.5\" - Processeur Quadricœur - RAM 2 Go - Mémoire 32 Go extensible - Android 10 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Capteur d'empreintes digitales - Batterie 3000 mAh - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/373948-large/smartphone-iku-a23-2go-32go-vert.jpg",
+        "stock": 20,
+        "popularity": true,
+        "release_date": "2023-07-15",
+        "colors": ["Vert"]
+      },
+      {
+        "id": 2,
+        "name": "Tecno Spark Go 2024",
+        "price": 145,
+        "description": "Double SIM - Écran HD+ 6.6\" - Processeur Quadricœur - RAM 2 Go - Mémoire 64 Go extensible - Android 12 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Batterie 5000 mAh - Couleur Vert - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/382926-large/smartphone-tecno-spark-go-2024-2-go-64-go-vert.jpg",
+        "stock": 22,
+        "popularity": true,
+        "release_date": "2024-01-12",
+        "colors": ["Vert", "Blanc", "Noir"]
+      },
+      {
+        "id": 3,
+        "name": "Benco Y11 3G",
+        "price": 95,
+        "description": "Double SIM - Écran FWVGA 5\" - Processeur Quadricœur - RAM 1 Go - Mémoire 32 Go extensible - Android 11 - Caméra frontale 5MP - Caméra arrière 5MP - 3G - Wifi - Batterie 2500 mAh - Couleur Bleu - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/312831-large/smartphone-benco-y11-3g-1-go-32-go-double-sim-blue.jpg",
+        "stock": 25,
+        "popularity": false,
+        "release_date": "2022-11-20",
+        "colors": ["Bleu", "Silver"]
+      },
+      {
+        "id": 4,
+        "name": "Itel A58 Lite",
+        "price": 110,
+        "description": "Double SIM - Écran 6.1\" - Processeur Quadricœur - RAM 2 Go - Mémoire 32 Go extensible - Android 10 - Caméra frontale 5MP - Caméra arrière 8MP - 4G - Wifi - Batterie 4000 mAh - Couleur Noir - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/284390-large/smartphone-itel-a58-lite-a631w-2-go-32-go-noir.jpg",
+        "stock": 30,
+        "popularity": true,
+        "release_date": "2023-06-10",
+        "colors": ["Noir", "Bleu"]
+      },
+      {
+        "id": 5,
+        "name": "IKU A10s",
+        "price": 130,
+        "description": "Double SIM - Écran HD 5.5\" - Processeur Quadricœur - RAM 2 Go - Mémoire 32 Go extensible - Android 10 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Capteur d'empreintes digitales - Batterie 3000 mAh - Couleur Blanc - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/299692-large/smartphone-iku-a10s-4g-32go-blanc.jpg",
+        "stock": 18,
+        "popularity": false,
+        "release_date": "2023-05-10",
+        "colors": ["Blanc", "Bleu"]
+      },
+      {
+        "id": 6,
+        "name": "IKU X5",
+        "price": 165,
+        "description": "Double SIM - Écran HD 6.3\" - Processeur Octa-core - RAM 3 Go - Mémoire 32 Go extensible - Android 12 - Caméra frontale 13MP - Caméra arrière 16MP - 4G - Wifi - Capteur d'empreintes digitales - Batterie 4500 mAh - Couleur Rouge - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/352178-large/smartphone-iku-x5-3go-32go-rouge.jpg",
+        "stock": 22,
+        "popularity": true,
+        "release_date": "2023-09-18",
+        "colors": ["Rouge"]
+      },
+      {
+        "id": 7,
+        "name": "Itel A60S",
+        "price": 145,
+        "description": "Double SIM - Écran HD+ 6.6\" - Processeur Quadricœur - RAM 2 Go - Mémoire 64 Go extensible - Android 12 - Caméra frontale 8MP - Caméra arrière 13MP + AI Lens - 4G - Wifi - Capteur d'empreintes digitales - Batterie 5000 mAh - Couleur Vert - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/312092-large/smartphone-itel-a60s-2go-64go-vert.jpg",
+        "stock": 19,
+        "popularity": true,
+        "release_date": "2023-12-01",
+        "colors": ["Vert"]
+      },
+      {
+        "id": 8,
+        "name": "IKU A7 Plus",
+        "price": 140,
+        "description": "Double SIM - Écran 5.5\" - Processeur Quadricœur - RAM 2 Go - Mémoire 16 Go extensible - Android 9 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Batterie 3500 mAh - Couleur Gris - Garantie 1 an",
+        "photo": "https://www.tunisianet.com.tn/352189-large/smartphone-iku-a7-plus-2go-16g-gris.jpg",
+        "stock": 18,
+        "popularity": false,
+        "release_date": "2022-05-10",
+        "colors": ["Gris"]
+      }
+    ]
+  }
+  
