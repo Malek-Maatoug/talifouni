@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**Bienvenue chez Taliphouni – Votre Destination Ultime pour les Smartphones en Tunisie !**
 
-## Getting Started
+Découvrez l’alliance parfaite entre innovation, style et performance chez **Taliphouni**, votre boutique en ligne préférée pour les derniers smartphones. Que vous cherchiez à améliorer votre appareil, à offrir le cadeau idéal ou à explorer les dernières technologies, nous sommes là pour vous servir.
 
-First, run the development server:
+### Pourquoi Choisir Taliphouni ?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+✨ **Large Sélection** : Des modèles haut de gamme aux options économiques, nous proposons une collection soigneusement choisie des meilleures marques.  
+🚚 **Livraison Rapide et Fiable** : Recevez votre nouveau smartphone rapidement et en toute sécurité.  
+💯 **Produits Authentiques** : Nous garantissons des appareils 100% originaux avec des garanties officielles.  
+💰 **Prix Compétitifs** : Profitez de superbes offres, de réductions exclusives et de modes de paiement flexibles.  
+📞 **Support Expert** : Notre équipe est là pour vous aider à faire le bon choix avec des recommandations personnalisées.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Découvrez Notre Collection
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+📱 **Smartphones Haut de Gamme** : Vivez une expérience ultime avec les derniers modèles d’Apple, Samsung, Google et bien d’autres.  
+💡 **Pépites Milieu de Gamme** : Des fonctionnalités premium à un prix abordable.  
+🎁 **Options Économiques** : Des smartphones de qualité qui respectent votre budget.  
+🔋 **Accessoires** : Complétez votre expérience avec des coques, chargeurs, écouteurs et plus encore.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Achetez en Toute Confiance
 
-## Learn More
+Chez Taliphouni, nous nous engageons à rendre votre expérience d’achat simple et agréable. Avec des paiements sécurisés, des retours faciles et une approche centrée sur le client, votre satisfaction est notre priorité.
 
-To learn more about Next.js, take a look at the following resources:
+### Prêt à Passer à l’Action ?
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Votre prochain smartphone préféré est à un clic. Parcourez notre collection dès maintenant et rejoignez la famille Taliphouni aujourd’hui !
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**[Achetez Maintenant]**
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Restez connecté. Restez en avance. **Taliphouni** – Là où la Technologie Vous Rencontre.
