@@ -4,7 +4,9 @@ const Text = ({ content, className }) => {
 
 const Title = ({ content, className }) => {
   return (
-    <h1 className={`font-[family-name:var(--title) ${className}`}>
+    <h1
+      className={`font-[family-name:var(--title)]  text-6xl font-bold ${className}`}
+    >
       {content}{" "}
     </h1>
   );
@@ -12,7 +14,7 @@ const Title = ({ content, className }) => {
 
 const SubTitle = ({ content, className }) => {
   return (
-    <h3 className={`font-[family-name:var(--title) ${className}`}>
+    <h3 className={`font-[family-name:var(--title)] ${className}`}>
       {" "}
       {content}{" "}
     </h3>
