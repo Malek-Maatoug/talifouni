@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={` ${poppins.variable}  ${bebas.variable} antialiased`}>
-        {children}
+        <div className="grid gap-14 p-14 ">{children}</div>
       </body>
     </html>
   );
