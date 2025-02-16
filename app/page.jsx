@@ -1,16 +1,23 @@
-import { Text, Title } from "./components/core/Text";
+import { LiensBtn } from "./components/core/Components";
+import { Text, Title, SubTitle, Liens } from "./components/core/Text";
 
 export default function Home() {
   return (
     <>
       <section>
-        <Title content={"hefheoigehfpoejgpeogjpo"} />
+        <Title content={"Bienvenue chez Taliphouni"} />
         <Text
           className={"bg-red-300 "}
-          content={
-            " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, ut molestias nulla accusantium perferendis a? Ex perferendis ipsa totam, architecto dolor nobis cupiditate dolores, optio quam enim adipisci error maxime."
-          }
-        />
+          content={" Découvrez l’alliance parfaite , nous sommes là pour vous servir"  }/>
+          <SubTitle 
+          className={"bg-pink-200 "}
+          content={"Pourquoi Choisir Taliphouni ?"}/>
+          <LiensBtn 
+          
+          content={"Découvrez Notre Collection "}
+           link={"products"}
+          />
+      
       </section>
     </>
   );

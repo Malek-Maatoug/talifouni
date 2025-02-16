@@ -20,4 +20,12 @@ const SubTitle = ({ content, className }) => {
     </h3>
   );
 };
-export { Text, Title, SubTitle };
+const Liens = ({content, className})=>{
+  return(
+  <h4 className={`font-[family-name:var(--title)] ${className}`}>
+      {" "}
+      {content}{" "}
+    </h4>
+    )
+}
+export { Text, Title, SubTitle, Liens };
