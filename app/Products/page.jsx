@@ -23,8 +23,18 @@ const page = () => {
     
     
   return (
-    <div>page</div>
-  )
+  <div className='min-w-full min-h-full grid grid-cols-2 gap-5'>
+    {phones ? (
+      phones.map((v) => (
+        <SingleProduct
+          key={v.id}
+          phone={v}
+        />
+      ))
+    ) : (
+      <h1>Loadinng ......</h1>
+    )}
+</div>
+)
 }
-
-export default page
+export default page;
