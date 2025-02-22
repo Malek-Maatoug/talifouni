@@ -1,18 +1,29 @@
 {
     "phones": [
+        {
+            "id": 1,
+            "name": "Iphone 15",
+            "price": 4000,
+            "description": "Écran 6,1 pouces OLED Super Retina XDR HDR10, Dolby Vision - Résolution: 2556 x 1179 pixels à 460 ppp - Processeur: Puce A16 Bionic (4nm) Hexa-core (2x3,46 GHz Everest + 4x2,02 GHz en dents de scie) - GPU Apple (graphiques 5 cœurs) - Système d'exploitation: iOS 17 - Mémoire RAM: 6 Go - Stockage: 128Go - Appareil photo Arrière: DualPixels: 48 MP, f/1,6, 26 mm + 12 MP, f/2,4, 13 mm, Zoom numérique jusqu'à 10x - Appareil Avant: 12 MégaPixels, f/1.9 - Vidéo 4K à 24/25/30/60 ip - Son stéréo - Connectivité: 5G NR, Wi‑Fi 6, Bluetooth 5.3, USB Type-C 2.0 - Autonomie jusqu’à 20 heures de lecture vidéo, Streaming vidéo : Jusqu’à 16 heures, Lecture audio : Jusqu’à 80 heures - Batterie: Li-Ion 3349 mAh - Charge rapide, PD2.0, 50% en 30 min - 15W sans fil (MagSafe) - Face ID - Apple Pay - Siri - NFC - Indice de protection IP68 - Détection des accidents - Appel d’urgence - Couleur: Bleu - Garantie: 1 an",
+            "photo": "https://www.tunisianet.com.tn/387267-large/iphone-15-prix-tunisie-5g-6go-128go-vert.jpg",
+            "stock": 24,
+            "popularity": true,
+            "release_date": "2025-02-18",
+            "colors": ["Vert"]
+          },
       {
-        "id": 1,
+        "id": 2,
         "name": "IKU A23",
         "price": 130,
         "description": "Double SIM - Écran HD 5.5\" - Processeur Quadricœur - RAM 2 Go - Mémoire 32 Go extensible - Android 10 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Capteur d'empreintes digitales - Batterie 3000 mAh - Garantie 1 an",
         "photo": "https://www.tunisianet.com.tn/373948-large/smartphone-iku-a23-2go-32go-vert.jpg",
         "stock": 20,
         "popularity": true,
-        "release_date": "2023-07-15",
+        "release_date": "2025-02-15",
         "colors": ["Vert"]
       },
       {
-        "id": 2,
+        "id": 3,
         "name": "Tecno Spark Go 2024",
         "price": 145,
         "description": "Double SIM - Écran HD+ 6.6\" - Processeur Quadricœur - RAM 2 Go - Mémoire 64 Go extensible - Android 12 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Batterie 5000 mAh - Couleur Vert - Garantie 1 an",
@@ -23,7 +34,7 @@
         "colors": ["Vert", "Blanc", "Noir"]
       },
       {
-        "id": 3,
+        "id": 4,
         "name": "Benco Y11 3G",
         "price": 95,
         "description": "Double SIM - Écran FWVGA 5\" - Processeur Quadricœur - RAM 1 Go - Mémoire 32 Go extensible - Android 11 - Caméra frontale 5MP - Caméra arrière 5MP - 3G - Wifi - Batterie 2500 mAh - Couleur Bleu - Garantie 1 an",
@@ -34,7 +45,7 @@
         "colors": ["Bleu", "Silver"]
       },
       {
-        "id": 4,
+        "id": 5,
         "name": "Itel A58 Lite",
         "price": 110,
         "description": "Double SIM - Écran 6.1\" - Processeur Quadricœur - RAM 2 Go - Mémoire 32 Go extensible - Android 10 - Caméra frontale 5MP - Caméra arrière 8MP - 4G - Wifi - Batterie 4000 mAh - Couleur Noir - Garantie 1 an",
@@ -45,7 +56,7 @@
         "colors": ["Noir", "Bleu"]
       },
       {
-        "id": 5,
+        "id": 6,
         "name": "IKU A10s",
         "price": 130,
         "description": "Double SIM - Écran HD 5.5\" - Processeur Quadricœur - RAM 2 Go - Mémoire 32 Go extensible - Android 10 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Capteur d'empreintes digitales - Batterie 3000 mAh - Couleur Blanc - Garantie 1 an",
@@ -56,7 +67,7 @@
         "colors": ["Blanc", "Bleu"]
       },
       {
-        "id": 6,
+        "id": 7,
         "name": "IKU X5",
         "price": 165,
         "description": "Double SIM - Écran HD 6.3\" - Processeur Octa-core - RAM 3 Go - Mémoire 32 Go extensible - Android 12 - Caméra frontale 13MP - Caméra arrière 16MP - 4G - Wifi - Capteur d'empreintes digitales - Batterie 4500 mAh - Couleur Rouge - Garantie 1 an",
@@ -67,7 +78,7 @@
         "colors": ["Rouge"]
       },
       {
-        "id": 7,
+        "id": 8,
         "name": "Itel A60S",
         "price": 145,
         "description": "Double SIM - Écran HD+ 6.6\" - Processeur Quadricœur - RAM 2 Go - Mémoire 64 Go extensible - Android 12 - Caméra frontale 8MP - Caméra arrière 13MP + AI Lens - 4G - Wifi - Capteur d'empreintes digitales - Batterie 5000 mAh - Couleur Vert - Garantie 1 an",
@@ -78,7 +89,7 @@
         "colors": ["Vert"]
       },
       {
-        "id": 8,
+        "id": 9,
         "name": "IKU A7 Plus",
         "price": 140,
         "description": "Double SIM - Écran 5.5\" - Processeur Quadricœur - RAM 2 Go - Mémoire 16 Go extensible - Android 9 - Caméra frontale 8MP - Caméra arrière 13MP - 4G - Wifi - Batterie 3500 mAh - Couleur Gris - Garantie 1 an",
