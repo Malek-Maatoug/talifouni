@@ -1,5 +1,5 @@
 const Text = ({ content, className }) => {
-  return <p className={` text-xl ${className}`}> {content} </p>;
+  return <p className={`${className} text-sm `}> {content} </p>;
 };
 
 const Title = ({ content, className }) => {
@@ -20,4 +20,12 @@ const SubTitle = ({ content, className }) => {
     </h3>
   );
 };
-export { Text, Title, SubTitle };
+const Liens = ({ content, className }) => {
+  return (
+    <h4 className={`font-[family-name:var(--title)] ${className}`}>
+      {" "}
+      {content}{" "}
+    </h4>
+  );
+};
+export { Text, Title, SubTitle, Liens };

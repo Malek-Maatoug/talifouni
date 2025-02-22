@@ -1,5 +1,6 @@
+import { LiensBtn } from "./components/core/Components";
+import { Text, Title, SubTitle, Liens } from "./components/core/Text";
 import { Centered } from "./components/core/Layouts";
-import { Text, Title } from "./components/core/Text";
 
 export default function Home() {
   return (
