@@ -23,7 +23,7 @@ const page = async () => {
       <div className="relative w-full h-1/2">
         <Image src={photo} alt={name} fill className="object-contain" />
       </div>
-      <div className=" col-span-2 ">
+      <div className=" col-span-2 grid gap-3 content-start">
         <Title content={name} />
         <Text
           content={description}
@@ -39,10 +39,16 @@ const page = async () => {
             </span>
           ))}
         </div>
-        <div className="flex justify-between  w-[550px] items-center">
+        <div className="flex justify-between  w-[550px] items-start">
           <Text content={price + " Dt "} className={"text-5xl font-bold"} />
-          <Text content={" Stock : " + stock + " Left"} />
-          <Text content={"relese date : " + release_date} />
+          <Text
+            content={" Stock : " + stock + " Left"}
+            className={" capitalize font-bold"}
+          />
+          <Text
+            content={"relese date : " + release_date}
+            className={" capitalize font-bold"}
+          />
         </div>
       </div>
     </ThreeColumns>
