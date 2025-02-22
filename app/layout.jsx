@@ -1,5 +1,6 @@
 import { Poppins, Bebas_Neue } from "next/font/google";
 import "./globals.css";
+import Nav from "./components/Nav";
 
 const bebas = Bebas_Neue({
   variable: "--title",
@@ -21,6 +22,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={` ${poppins.variable}  ${bebas.variable} antialiased`}>
+        <Nav/>
         <div className="grid gap-14 p-14 ">{children}</div>
       </body>
     </html>
