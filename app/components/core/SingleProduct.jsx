@@ -38,9 +38,9 @@ const SingleProduct = ({phone}) => {
     <main className='min-w-full min-h-full'>
         <div className='h-full w-full grid grid-cols-3'>
             <div className='col-span-1 rounded-2xl relative'>
-                <Image src={photo} alt='phone'fill priority className='rounded-l-2xl'/>
+                <Image src={photo} alt='phone'fill priority className='rounded-lg'/>
             </div>
-            <div className='col-span-2 flex flex-col bg-blue-950 rounded-r-2xl h-full w-full gap-1 pt-4 pb-3 px-5'>
+            <div className='col-span-2 flex flex-col rounded-r-2xl h-full w-full gap-1 pt-4 pb-3 px-5'>
                 <div className='flex flex-row justify-end gap-2'>
                     {getDifferenceInDays(release_date , today) < 30 ? 
                     <div className='border-2 border-orange-500 rounded-3xl h-5 text-sm'><span className='p-2 text-orange-500'>New</span></div>
@@ -55,7 +55,7 @@ const SingleProduct = ({phone}) => {
                     :<div className='border-2 border-red-600 rounded-3xl h-5 text-sm'><span className='p-2 text-red-600'>Rupture</span></div>
                     }
                 </div>
-                <Link className='text-white text-2xl hover:text-blue-600 hover:underline hover:underline-offset-2' href={`/Products/${id}`}>{name}</Link>
+                <Link className='text-2xl hover:text-blue-600 hover:underline hover:underline-offset-2' href={`/Products/${id}`}>{name}</Link>
                 <h2 className='text-red-600 text-xl'>{price.toFixed(3)} DT</h2>
                 <p className='text-gray-500 line-clamp-3'>{description}</p>
             </div>
