@@ -29,7 +29,6 @@ const page =  () => {
     release_date,
     colors,
   } = phone;
-  console.log(name,photo);
   
   return (
      <>

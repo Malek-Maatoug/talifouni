@@ -13,7 +13,7 @@ const Nav = () => {
       <Link href={"/Products"}> shop </Link>
       <LiensBtn
         link={"/Panier"}
-        content={<Image src={cart} width={50} height={50} />}
+        content={<Image src={cart} width={50} height={50} alt="panier" />}
       ></LiensBtn>
     </nav>
   );
