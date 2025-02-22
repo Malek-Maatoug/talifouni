@@ -1,5 +1,5 @@
 import React from 'react'
-import panier_2 from '../assets/panier_2.png'
+import panier_2 from '@/app/assets/Panier_2.png'
 import Image from 'next/image';
 
 const page = () => {
